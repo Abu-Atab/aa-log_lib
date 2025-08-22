@@ -1,0 +1,11 @@
+fx_version 'cerulean'
+description 'Standalone Log library, Made By : @abu.atb'
+author 'Abu Atab '
+version '1.0.0'
+lua54 'yes'
+game 'gta5'
+
+shared_script 'config.lua'
+client_script 'client.lua'
+server_script 'server.lua'
+escrow_ignore 'config.lua'
